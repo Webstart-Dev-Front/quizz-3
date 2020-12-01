@@ -2,6 +2,8 @@
 
 <img src="image.png" />
 
+## 0. Créer votre branche quizz3/[NOM-PRENOM]
+
 ## 1. Installer [Material-UI](https://material-ui.com/getting-started/installation/)
 
 ## 2. Créer une formulaire
