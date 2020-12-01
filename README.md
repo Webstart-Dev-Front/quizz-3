@@ -27,3 +27,9 @@ Créer une fonction qui log les donnés du formulaire dans une objet.
 Simuler un appel sur serveur en utilisant la fonction **waitXSeconds** et changer l'icone (en CircularProgress) sur le bouton pendant X seconds.
 
 Note: Transformer la fonction de soumission du formulaire en [fonction Asynchrone](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function) (async/await)
+
+## 4. Bonus 2
+
+<img src='image-bonus.png'>
+
+Utiliser le composant *Switch* de Material-UI pour rajouter la possibilité d'activer/désactiver le formulaire. Lorsque le switch est activé tous les champs et le bouton sont disabled.
